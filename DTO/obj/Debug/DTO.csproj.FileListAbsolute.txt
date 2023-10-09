@@ -1,0 +1,6 @@
+D:\visualSutdio\BTLon_QLNhanSu\DTO\bin\Debug\DTO.dll
+D:\visualSutdio\BTLon_QLNhanSu\DTO\bin\Debug\DTO.pdb
+D:\visualSutdio\BTLon_QLNhanSu\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\visualSutdio\BTLon_QLNhanSu\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\visualSutdio\BTLon_QLNhanSu\DTO\obj\Debug\DTO.dll
+D:\visualSutdio\BTLon_QLNhanSu\DTO\obj\Debug\DTO.pdb

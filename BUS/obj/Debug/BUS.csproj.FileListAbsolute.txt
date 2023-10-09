@@ -1,0 +1,11 @@
+D:\visualSutdio\BTLon_QLNhanSu\BUS\bin\Debug\BUS.dll
+D:\visualSutdio\BTLon_QLNhanSu\BUS\bin\Debug\BUS.pdb
+D:\visualSutdio\BTLon_QLNhanSu\BUS\bin\Debug\DAL.dll
+D:\visualSutdio\BTLon_QLNhanSu\BUS\bin\Debug\DTO.dll
+D:\visualSutdio\BTLon_QLNhanSu\BUS\bin\Debug\DAL.pdb
+D:\visualSutdio\BTLon_QLNhanSu\BUS\bin\Debug\DTO.pdb
+D:\visualSutdio\BTLon_QLNhanSu\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\visualSutdio\BTLon_QLNhanSu\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\visualSutdio\BTLon_QLNhanSu\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\visualSutdio\BTLon_QLNhanSu\BUS\obj\Debug\BUS.dll
+D:\visualSutdio\BTLon_QLNhanSu\BUS\obj\Debug\BUS.pdb
